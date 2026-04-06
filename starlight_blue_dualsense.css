@@ -1,6 +1,6 @@
 /*
   PS5 DualSense — Starlight Blue Skin for GamepadViewer
-  Use with: https://gamepadviewer.com/?p=2&s=18&editcss=YOUR_URL
+  Use with: https://gamepadviewer.com/?p=2&s=8&editcss=YOUR_URL
 */
 
 body {
@@ -10,7 +10,7 @@ body {
 }
 
 .controller {
-  filter: hue-rotate(195deg) saturate(5) brightness(2.5) contrast(0.85);
+  filter: hue-rotate(210deg) saturate(3) brightness(1.8) contrast(1.1);
 }
 
 .controller .button.pressed,
